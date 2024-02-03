@@ -1,0 +1,39 @@
+body{
+	margin:0;
+	padding:0;
+	
+}
+section{
+	height:100vh;
+	background:#262626;
+	border-top:2px solid #262626;
+	border:4px solid #262626;
+}
+.sec1{
+	background:url(2.jpg);
+	background-attachment:fixed;
+}
+.sec2{
+	background:url(3.jpg);
+	background-attachment:fixed;
+}
+.sec3{
+	background:url(4.jpg);
+	background-attachment:fixed;
+}
+.sec4{
+	background:url(5.jpg);
+	background-attachment:fixed;
+}
+.sec5{
+	background:url(6.jpg);
+	background-attachment:fixed;
+}
+.sec6{
+	background:url(7.jpg);
+	background-attachment:fixed;
+}
+.sec7{
+	background:url(8.jpg);
+	background-attachment:fixed;
+}
